@@ -1,7 +1,7 @@
 name: Pengweb
 favicon: null
-layout_spectrum: 0.7428154947701842
-typography_spectrum: 0.45210952195338905
+layout_spectrum: 0.2518
+typography_spectrum: 0.52966
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.4790418529883027
-  lightness: 0.5220890161581337
-  saturation: 0.09167640306986868
-  rhythmicContrast: 0.31928885518573225
+    - '#ff0000'
+    - '#ffda00'
+    - '#4609d2'
+    - '#00e200'
+    - '#008e00'
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
