@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pengweb]]></title>
         <description><![CDATA[Pengweb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pengweb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 08:02:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 08:04:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pengweb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Testgin</p>]]></description>
-            <link>undefinedd374b2a9-9b1b-4d98-a467-bbbf28d72c86/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcccfc93-a8d6-411e-b61b-1b1bacb6f19e.jpg">]]></description>
+            <link>https://thegrid.ai/pengweb/d374b2a9-9b1b-4d98-a467-bbbf28d72c86/index.html</link>
             <guid isPermaLink="false">d374b2a9-9b1b-4d98-a467-bbbf28d72c86</guid>
-            <pubDate>Wed, 24 Feb 2016 08:02:40 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 08:03:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
